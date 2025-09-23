@@ -1,0 +1,25 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-gateways",
+  "name": "zaincashmodule",
+  "license": "MIT",
+  "category": "payments",
+  "description": {
+    "name": "Zain Cash Payment Gateway",
+    "tagline": "A Third Party Payment Gateway Module for WHMCS",
+    "long": "This module integrates the Zain Cash payment gateway into WHMCS, allowing customers to make payments using Zain Cash.",
+    "features": ["Pay using your Zain Cash Wallet"]
+  },
+  "logo": {
+    "filename": "logo.png"
+  },
+  "support": {
+    "docs_url": "https://github.com/alsaadii98/whmcs-zaincash-module"
+  },
+  "authors": [
+    {
+      "name": "alsaadii98",
+      "homepage": "https://github.com/alsaadii98/whmcs-zaincash-module"
+    }
+  ]
+}
