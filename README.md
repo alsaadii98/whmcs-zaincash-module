@@ -11,7 +11,7 @@ The **Zain Cash Payment Gateway Module** seamlessly integrates Zain Cash with WH
 ## Installation Guide
 
 1. Navigate to your WHMCS directory.
-2. Move the following files and directories:
+2. Move the following files and directories to `modules/gateways`:
    - `includes/`
    - `zaincashmodule/`
    - `zaincashmodule.php`
